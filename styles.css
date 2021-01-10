@@ -1,0 +1,10 @@
+h1 {
+    font-size: x-large;
+    font: outline; 
+    color: steelblue;
+}
+ p {
+     font-size: xx-large;
+     color: teal;
+     font-style: italic;
+ }
